@@ -7,9 +7,6 @@
   
 
   
-  
-
-  
 
   
   
@@ -20,13 +17,18 @@
   
 
   
+
+  
+  
+
+  
   
 
   
   
 
   
-      "page9": {
+      "page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://deadat0m.github.io/MMM/robots.txt",
