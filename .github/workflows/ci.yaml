@@ -33,6 +33,13 @@ jobs:
     - name: convert notebooks and word docs to posts
       uses: ./_action_files
 
+    - name: Updating CV from https://github.com/DeadAt0m/cv
+      run: |
+        rm -f "./assets/files/cv.pdf"
+        mkdir -p "./assets/files"
+        wget "https://github.com/DeadAt0m/cv/raw/master/cv_eng.pdf" -O ./assets/files/cv.pdf
+
+
     - name: setup directories for Jekyll build
       run: |
         rm -rf _site
