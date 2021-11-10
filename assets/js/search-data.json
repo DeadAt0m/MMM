@@ -31,7 +31,7 @@
       "page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
-          "url": "https://deadat0m.github.io/notepad/robots.txt",
+          "url": "https://deadat0m.github.io/MMM/robots.txt",
           "relUrl": "/robots.txt",
           "date": ""
       }

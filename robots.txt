@@ -1,1 +1,1 @@
-Sitemap: https://deadat0m.github.io/notepad/sitemap.xml
+Sitemap: https://deadat0m.github.io/MMM/sitemap.xml
